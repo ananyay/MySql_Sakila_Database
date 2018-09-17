@@ -4,7 +4,7 @@ SELECT first_name,last_name
 FROM actor;
 
 -- 1b Display first and last names of all actors in single column from actor table:
-SELECT upper(concat(first_name,',',last_name)) AS ActorName
+SELECT upper(concat(first_name,' ',last_name)) AS ActorName
 FROM actor;
 
 -- 2a Display ID Number,first and last Names WHERE first_name = 'Joe':
