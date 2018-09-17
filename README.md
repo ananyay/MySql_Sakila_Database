@@ -1,6 +1,8 @@
 
 # SAKILA DATABASE SCHEMA
 
+![sakila_schema](images/sakila_schema.svg)
+
 ### Tables and Views
 * actor
 * actor_info
@@ -25,5 +27,3 @@
 * staff
 * staff_list
 * store
-
-![sakila_schema](images/sakila_schema.svg)
